@@ -1,0 +1,6 @@
+name: sendDamage
+version: 0.0.1
+main: ryo5828\sendDamage\Main
+api: 4.2.0
+load: POSTWORLD
+author: ryo5828
