@@ -2,7 +2,6 @@
 
 namespace ryo5828\sendDamage;
 
-use pocketmine\item\VanillaItems;
 use pocketmine\player\Player;
 use pocketmine\plugin\PluginBase;
 
